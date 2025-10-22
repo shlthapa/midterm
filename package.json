@@ -1,0 +1,23 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "description": "Mid-term",
+  "main": "index.js",
+ "scripts": {
+    "sass-build": "sass --no-source-map scss:css",
+    "sass-watch": "sass --watch --no-source-map scss:css"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shlthapa/midterm.git"
+  },
+  "author": "Shlok Thapa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shlthapa/midterm/issues"
+  },
+  "homepage": "https://github.com/shlthapa/midterm#readme",
+  "dependencies": {
+    "sass": "^1.93.2"
+  }
+}
